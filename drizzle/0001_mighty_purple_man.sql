@@ -1,0 +1,1 @@
+ALTER TABLE `documents` ADD `price` integer NOT NULL;
